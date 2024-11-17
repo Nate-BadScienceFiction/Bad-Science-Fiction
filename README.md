@@ -3,7 +3,7 @@
 ## Code Generation / Software Engineering with ChatGPT o1-preview series:
 
 ***
-### AI Advances
+### AI Advances:
 
 **[Code Generation with ChatGPT o1-preview as a Story of Human-AI Collaboration](https://medium.com/ai-advances/code-generation-with-chatgpt-o1-preview-as-a-story-of-human-ai-collaboration-c80ecd9737ec)**
 -- A C++ and Python case: comparison and insights.
