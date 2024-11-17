@@ -19,6 +19,9 @@
 **[Asking ChatGPT to generate code from code descriptions rather than from baseline code.](https://substack.com/home/post/p-150756144)**
 -- 10/26/2024
 
+**[You've come a long way...](https://natecombs.substack.com/p/thoughts-about-chatgpt-o1-preview)**
+-- 10/02/2024
+
 
 
 
