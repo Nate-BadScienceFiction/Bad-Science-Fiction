@@ -2,10 +2,16 @@
 
 ## Code Generation / Software Engineering with ChatGPT o1-preview series:
 
+***
+### AI Advances
+
 **[Code Generation with ChatGPT o1-preview as a Story of Human-AI Collaboration](https://medium.com/ai-advances/code-generation-with-chatgpt-o1-preview-as-a-story-of-human-ai-collaboration-c80ecd9737ec)**
 -- A C++ and Python case: comparison and insights.
 
-Substack:
+### Substack:
+
+**[Collaborating with ChatGPT to reorganize a GitHub repository.](https://natecombs.substack.com/p/software-development-with-chatgpt-6d4).**
+-- 11/16/2024
 
 **[Collaborating with ChatGPT to build out unit tests for a Visual Studio application.](https://natecombs.substack.com/p/software-development-with-chatgpt)**
 -- 11/10/2024
