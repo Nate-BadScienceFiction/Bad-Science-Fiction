@@ -11,6 +11,9 @@
 
 ### Substack:
 
+**[Focusing on an efficient, exploratory interaction style with ChatGPT to develop a story analysis tool by selectively refining responses and leveraging human-AI synergy.](https://natecombs.substack.com/p/software-development-with-chatgpt-d2c).**
+-- 11/23/2024
+
 **[Collaborating with ChatGPT to reorganize a GitHub repository.](https://natecombs.substack.com/p/software-development-with-chatgpt-6d4).**
 -- 11/16/2024
 
