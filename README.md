@@ -5,6 +5,11 @@
 ***
 ### AI Advances:
 
+**[Software Development with ChatGPT o1-preview: A Brain-Spans Approach](https://medium.com/ai-advances/software-development-with-chatgpt-o1-preview-a-brain-spans-approach-99d6142d7193)**
+-- Focusing on an efficient, exploratory interaction style by selectively refining responses and leveraging human-AI review.
+-- 11/25/2024
+
+
 **[Code Generation with ChatGPT o1-preview as a Story of Human-AI Collaboration](https://medium.com/ai-advances/code-generation-with-chatgpt-o1-preview-as-a-story-of-human-ai-collaboration-c80ecd9737ec)**
 -- A C++ and Python case: comparison and insights.
 -- 10/13/2024
