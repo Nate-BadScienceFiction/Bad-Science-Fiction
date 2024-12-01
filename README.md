@@ -16,6 +16,9 @@
 
 ### Substack:
 
+**[ChatGPT and a Dialog Pop-up.](https://natecombs.substack.com/p/chatgpt-and-a-dialog-pop-up).**
+-- 12/01/2024
+
 **[Focusing on an efficient, exploratory interaction style with ChatGPT to develop a story analysis tool by selectively refining responses and leveraging human-AI synergy.](https://natecombs.substack.com/p/software-development-with-chatgpt-d2c).**
 -- 11/23/2024
 
