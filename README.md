@@ -1,6 +1,6 @@
 # Bad-Science-Fiction
 
-## Code Generation / Software Engineering with ChatGPT o1-preview series:
+## Code Generation / Software Engineering with a Generative AI Collaborateur series:
 
 ***
 ### AI Advances:
