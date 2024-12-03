@@ -1,7 +1,6 @@
 # Bad-Science-Fiction
 
 ## Code Generation / Software Engineering with a Generative AI Collaborateur.
-### This site documents the tech journey:
 
 ***
 ### AI Advances:
