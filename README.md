@@ -16,6 +16,9 @@
 
 ### Substack:
 
+**[ChatGPT o1 does GitHub Actions.](https://natecombs.substack.com/p/chatgpt-o1-does-github-actions).**
+-- 12/08/2024
+
 **[ChatGPT and a Dialog Pop-up.](https://natecombs.substack.com/p/chatgpt-and-a-dialog-pop-up).**
 -- 12/01/2024
 
