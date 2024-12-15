@@ -16,6 +16,9 @@
 
 ### Substack:
 
+**[Towards Automating a GitHub Workflow to Generate Architecture Diagrams.](https://natecombs.substack.com/p/towards-automating-a-github-workflow).**
+-- 12/15/2024
+
 **[ChatGPT o1 does GitHub Actions.](https://natecombs.substack.com/p/chatgpt-o1-does-github-actions).**
 -- 12/08/2024
 
