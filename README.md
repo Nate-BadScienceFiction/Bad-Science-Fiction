@@ -16,6 +16,9 @@
 
 ### Substack:
 
+**[Towards Communicating Software Architecture in AI-Powered Pipelines.](https://natecombs.substack.com/p/towards-communicating-software-architecture).**
+-- 12/22/2024
+
 **[Towards Automating a GitHub Workflow to Generate Architecture Diagrams.](https://natecombs.substack.com/p/towards-automating-a-github-workflow).**
 -- 12/15/2024
 
