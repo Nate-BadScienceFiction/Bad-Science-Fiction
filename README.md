@@ -16,6 +16,9 @@
 
 ### Substack:
 
+**[AI Flashlights and Happy Holiday.](https://natecombs.substack.com/p/ai-flashlights-and-happy-holiday).**
+-- 12/27/2024
+
 **[Towards Communicating Software Architecture in AI-Powered Pipelines.](https://natecombs.substack.com/p/towards-communicating-software-architecture).**
 -- 12/22/2024
 
