@@ -16,6 +16,12 @@
 
 ### Substack:
 
+**[A Bientot Backend](https://natecombs.substack.com/p/a-bientot-backend).**
+-- 1/04/2025
+
+**[AI Flashlights and Happy Holiday.](https://natecombs.substack.com/p/ai-flashlights-and-happy-holiday).**
+-- 12/27/2024
+
 **[AI Flashlights and Happy Holiday.](https://natecombs.substack.com/p/ai-flashlights-and-happy-holiday).**
 -- 12/27/2024
 
