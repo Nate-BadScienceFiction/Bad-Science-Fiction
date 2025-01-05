@@ -2,6 +2,9 @@
 
 ## Code Generation / Software Engineering with a Generative AI Collaborateur.
 
+What is Bad Science Fiction?
+BSF, or Bad Science Fiction, describes a collaborative software project on GitHub. As explained in the AI Advances articles, the project is so named because its ostensible goal is to develop a text analysis tool specializing in science fiction—a tool developed in collaboration with Generative AI. However, it is as much an experiment on how best to leverage large language models (LLMs) to enhance software development.
+
 ***
 ### AI Advances:
 
