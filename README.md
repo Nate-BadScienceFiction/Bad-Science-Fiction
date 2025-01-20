@@ -19,6 +19,9 @@ BSF, or Bad Science Fiction, describes a collaborative software project on GitHu
 
 ### Substack:
 
+**[A Late Night with o1](https://natecombs.substack.com/p/a-late-night-with-o1).**
+-- 1/19/2025
+
 **[Chatting Up o1](https://natecombs.substack.com/p/chatting-up-o1).**
 -- 1/17/2025
 
