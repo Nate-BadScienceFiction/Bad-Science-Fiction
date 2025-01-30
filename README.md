@@ -19,6 +19,9 @@ BSF, or Bad Science Fiction, describes a collaborative software project on GitHu
 
 ### Substack:
 
+**[Prompt Twists and Code Turns with o1](https://natecombs.substack.com/p/prompt-twists-and-code-turns-with).**
+-- 1/30/2025
+
 **[Vector databases and Knotweed: o1 and Redis](https://natecombs.substack.com/p/vector-databases-and-knotweed-o1).**
 -- 1/25/2025
 
