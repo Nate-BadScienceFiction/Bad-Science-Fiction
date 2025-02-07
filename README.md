@@ -19,6 +19,9 @@ BSF, or Bad Science Fiction, describes a collaborative software project on GitHu
 
 ### Substack:
 
+**[Science Fiction / Double Feature](https://natecombs.substack.com/p/science-fiction-double-feature).**
+-- 02/06/2025
+
 **[Prompt Twists and Code Turns with o1](https://natecombs.substack.com/p/prompt-twists-and-code-turns-with).**
 -- 1/30/2025
 
