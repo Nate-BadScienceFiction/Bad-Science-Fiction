@@ -19,6 +19,9 @@ BSF, or Bad Science Fiction, describes a collaborative software project on GitHu
 
 ### Substack:
 
+**[Backus-Naur Form "Granmars" and o3](https://natecombs.substack.com/p/backus-naur-form-granmars-and-o3).**
+-- 02/14/2025
+
 **[Science Fiction / Double Feature](https://natecombs.substack.com/p/science-fiction-double-feature).**
 -- 02/06/2025
 
