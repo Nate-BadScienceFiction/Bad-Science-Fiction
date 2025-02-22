@@ -19,6 +19,9 @@ BSF, or Bad Science Fiction, describes a collaborative software project on GitHu
 
 ### Substack:
 
+**[The Fast Thin-Client Shuffle with JavaScript UIs](https://natecombs.substack.com/p/the-fast-thin-client-shuffle-with).**
+-- 02/21/2025
+
 **[Backus-Naur Form "Granmars" and o3](https://natecombs.substack.com/p/backus-naur-form-granmars-and-o3).**
 -- 02/14/2025
 
