@@ -6,6 +6,8 @@
 BSF, or Bad Science Fiction, describes a collaborative software project on GitHub. As explained in the AI Advances articles, the project is so named because its ostensible goal is to develop a text analysis tool specializing in science fiction—a tool developed in collaboration with Generative AI. However, it is as much an experiment on how best to leverage large language models (LLMs) to enhance software development.
 
 ***
+Below are links to this project. AI Advances references are good "roll-up" or summary reports. Substack posts are detail-oriented narratives that capture the project's progress.
+***
 ### AI Advances:
 
 **[Does Good Software Engineering Improve the Performance of Large Language Models with Software Tasks?](https://medium.com/ai-advances/does-good-software-engineering-improve-the-performance-of-large-language-models-with-software-tasks-e31c0e3626a1)**
