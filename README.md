@@ -25,6 +25,9 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 
 ### Substack:
 
+**[Using 4o Canvas to Process GPX Running Data](https://natecombs.substack.com/p/using-4o-canvas-to-process-gpx-running).**
+-- 02/28/2025
+
 **[The Fast Thin-Client Shuffle with JavaScript UIs](https://natecombs.substack.com/p/the-fast-thin-client-shuffle-with).**
 -- 02/21/2025
 
