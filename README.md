@@ -30,7 +30,7 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 ### Substack:
 
 **[The Challenge of Adapting to Small Changes in Problems or Situations](https://natecombs.substack.com/p/the-challenge-of-adapting-to-small).**
--- 03/25/2025
+-- 03/05/2025
 
 **[Using 4o Canvas to Process GPX Running Data](https://natecombs.substack.com/p/using-4o-canvas-to-process-gpx-running).**
 -- 02/28/2025
