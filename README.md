@@ -10,6 +10,10 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 ***
 ### AI Advances:
 
+**[How Many Loops Did I Run? GPT-4o, GPS Data, and the Art of Asking the Right Question](https://medium.com/ai-advances/how-many-loops-did-i-run-gpt-4o-canvas-gps-data-and-asking-the-right-question-d024667738d8)**
+-- Testing AI’s Code Generation with GPX Data — Where It Got It Wrong, How I Fixed It, and What It Says About the Importance of Well-designed Prompts.
+-- 03/01/2025
+
 **[Does Good Software Engineering Improve the Performance of Large Language Models with Software Tasks?](https://medium.com/ai-advances/does-good-software-engineering-improve-the-performance-of-large-language-models-with-software-tasks-e31c0e3626a1)**
 -- Thoughts about Chain-of-Thought LLMs and code.
 -- 02/23/2025
@@ -24,6 +28,9 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 -- 10/13/2024
 
 ### Substack:
+
+**[The Challenge of Adapting to Small Changes in Problems or Situations](https://natecombs.substack.com/p/the-challenge-of-adapting-to-small).**
+-- 03/25/2025
 
 **[Using 4o Canvas to Process GPX Running Data](https://natecombs.substack.com/p/using-4o-canvas-to-process-gpx-running).**
 -- 02/28/2025
