@@ -29,6 +29,9 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 
 ### Substack:
 
+**[AI Growth: to Godzilla or not?](https://natecombs.substack.com/p/ai-growth-to-godzilla-or-not).**
+-- 03/08/2025
+
 **[The Challenge of Adapting to Small Changes in Problems or Situations](https://natecombs.substack.com/p/the-challenge-of-adapting-to-small).**
 -- 03/05/2025
 
