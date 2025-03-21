@@ -29,6 +29,9 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 
 ### Substack:
 
+**["Embrace the change, focus on the Human advantage"](https://natecombs.substack.com/p/embrace-the-change-focus-on-the-human).**
+-- 03/20/2025
+
 **[AI Growth: to Godzilla or not?](https://natecombs.substack.com/p/ai-growth-to-godzilla-or-not).**
 -- 03/08/2025
 
