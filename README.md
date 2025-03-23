@@ -29,6 +29,9 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 
 ### Substack:
 
+**["Testing LLMs using Analogies by Puzzle"](https://natecombs.substack.com/p/testing-llms-using-analogies-by-puzzle).**
+-- 03/21/2025
+
 **["Embrace the change, focus on the Human advantage"](https://natecombs.substack.com/p/embrace-the-change-focus-on-the-human).**
 -- 03/20/2025
 
