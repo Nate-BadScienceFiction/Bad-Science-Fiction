@@ -29,6 +29,9 @@ Below are links to this project. AI Advances references are good "roll-up" or su
 
 ### Substack:
 
+**["My Late Night Model Context Protocol Wolfman Jack Dedication"](https://natecombs.substack.com/p/my-late-night-model-context-protocol).**
+-- 03/28/2025
+
 **["Testing LLMs using Analogies by Puzzle"](https://natecombs.substack.com/p/testing-llms-using-analogies-by-puzzle).**
 -- 03/21/2025
 
