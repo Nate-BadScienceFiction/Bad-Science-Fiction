@@ -29,6 +29,9 @@ Below are links to project write-ups. AI Advances references are "roll-up" or su
 
 ### Substack:
 
+**["My Late Night Model Context Protocol Road Trip, On y va!"](https://natecombs.substack.com/p/my-late-night-model-context-protocol-732).**
+-- 04/04/2025
+
 **["My Late Night Model Context Protocol Wolfman Jack Dedication"](https://natecombs.substack.com/p/my-late-night-model-context-protocol).**
 -- 03/28/2025
 
