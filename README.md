@@ -29,6 +29,9 @@ Below are links to project write-ups. AI Advances references are "roll-up" or su
 
 ### Substack:
 
+**["The Milagro Beanfield War and my Late Night Model Context Protocol Road Trip. Is Claude too Earnest?"](https://open.substack.com/pub/natecombs/p/the-milagro-beanfield-war-and-my).**
+-- 04/06/2025
+
 **["My Late Night Model Context Protocol Road Trip, On y va!"](https://natecombs.substack.com/p/my-late-night-model-context-protocol-732).**
 -- 04/04/2025
 
