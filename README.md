@@ -29,6 +29,9 @@ Below are links to project write-ups. AI Advances references are "roll-up" or su
 
 ### Substack:
 
+**["Memory Controls for ChatGPT"](https://open.substack.com/pub/natecombs/p/memory-controls-for-chatgpt).**
+-- 04/11/2025
+
 **["The Milagro Beanfield War and my Late Night Model Context Protocol Road Trip. Is Claude too Earnest?"](https://open.substack.com/pub/natecombs/p/the-milagro-beanfield-war-and-my).**
 -- 04/06/2025
 
