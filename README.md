@@ -29,6 +29,9 @@ Below are links to project write-ups. AI Advances references are "roll-up" or su
 
 ### Substack:
 
+**["Vibe Coding and Good Vibrations"](https://open.substack.com/pub/natecombs/p/vibe-coding-and-good-vibrations).**
+-- 04/18/2025
+
 **["Memory Controls for ChatGPT"](https://open.substack.com/pub/natecombs/p/memory-controls-for-chatgpt).**
 -- 04/11/2025
 
